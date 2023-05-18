@@ -1,8 +1,8 @@
 {
 	"name": "touchlab-vscode-office",
-	"displayName": "Office Viewer(Markdown Editor - Touchlab-only)",
-	"description": "View word,excel files and using WYSIWYG editor for markdown.",
-	"version": "3.1.5",
+	"displayName": "Not official!!! Office Viewer(Touchlab-only-build)",
+	"description": "Fork of the official plugin we use internally.",
+	"version": "3.1.6",
 	"publisher": "touchlab",
 	"icon": "images/icon.png",
 	"engines": {
